@@ -21,7 +21,7 @@ Todos conecemos lo esencial ..
 
   ¿Pero sabemos como funciona esta tecnologia detras de las maquinas?
 
-  bueno ,dejemosque jorge rodriguez , el psicologo y por aquellos años jefe de campaña del extinto Hugi Chavez del regimen nos de una breve   introduccion de como funciona las maquinas
+  bueno ,dejemos que jorge rodriguez , el psicologo y por aquellos años jefe de campaña del extinto Hugo Chavez del regimen nos de una breve   introduccion de como funciona las maquinas
   que por alla en el 2013 en las Elecciones Presidenciales para el para el período 2013-2019 ,declaraba a la audiencia en el canal del estado VTV , que   es de ellos por cierto ,cuando la oposicion declaro fraude y ellos tenias las actas de escrutinio
 
   
@@ -48,7 +48,6 @@ En una pantalla, aparecen todos los candidatos disponibles y se pulsa sobre el e
 
 Por cada voto, la máquina emite una papeleta, es decir, un papel donde el elector puede comparar que su voto es el mismo que la máquina registra, que ambos coinciden. A su vez, esa papeleta se deposita en una urna.
 
-¡¿cierto amoroso?! 
 
 ![cne-electores-miranda-1955615687](https://github.com/user-attachments/assets/cc294d6b-9e8c-4bc8-b30b-13125fd9583f)
 
@@ -58,7 +57,7 @@ Entonces, por un lado, cada máquina registra lo votos, que se envían a los cen
 ¿Las actas son inadulterables ?
 ¿se puede burlar la maquina y crear nuevas actas?
 
-¡¿AHORA COMO LE EXPLICAMOS A LA GENTE QUE HUBO UN CIBER ATAQUE A LAS MAQUINAS ? !
+¡¿AHORA COMO HUBO UN CIBER ATAQUE A LAS MAQUINAS ? !
 
 
 Vayan al proximo readme...
